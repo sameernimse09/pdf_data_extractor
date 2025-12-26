@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.31+-red.svg)](https://streamlit.io)
 
+**[🚀 Live App](https://pdfdataextractor9919.streamlit.app/)**
+
 A Streamlit application that intelligently extracts data from PDFs and converts them to Excel or CSV format.
 
 ## Features
