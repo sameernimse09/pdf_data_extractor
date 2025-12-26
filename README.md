@@ -1,5 +1,9 @@
 # PDF Data Extractor
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+[![Streamlit](https://img.shields.io/badge/streamlit-1.31+-red.svg)](https://streamlit.io)
+
 A Streamlit application that intelligently extracts data from PDFs and converts them to Excel or CSV format.
 
 ## Features
@@ -93,4 +97,4 @@ Feel free to open issues or submit pull requests!
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
